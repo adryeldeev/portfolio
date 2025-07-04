@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaGithub, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa'; // Importa os ícones necessários
 
 const Contato = () => {

@@ -1,4 +1,3 @@
-import React from 'react';
 import fourseguro from '../../assets/4slp.png'; // Certifique-se de que este caminho está correto
 import lpfc from '../../assets/LPFC.png';     // Certifique-se de que este caminho está correto
 import sistema from '../../assets/4sSitema.png'; // Certifique-se de que este caminho está correto
