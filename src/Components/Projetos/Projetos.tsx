@@ -40,7 +40,7 @@ const Projetos = () => {
               {/* Botões */}
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://www.4sseguros.com.br/"
                   className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold text-sm" // Botões um pouco menores
                 >
                   View Project
@@ -79,7 +79,7 @@ const Projetos = () => {
               {/* Botões */}
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://www.felipecarneiromotors.com.br/"
                   className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold text-sm"
                 >
                   View Project
