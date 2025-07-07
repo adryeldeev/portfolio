@@ -1,4 +1,4 @@
-
+import photo from '../../assets/perfil.png'
 const Heder = () => {
   return (
       <header className="bg-gradient-to-b from-[#1E2A3A] via-[#0D1117] to-[#0D1117] text-white py-24 px-6">
@@ -35,7 +35,7 @@ const Heder = () => {
         {/* Imagem */}
         <div className="flex-1 flex justify-center">
           <img
-            src="/sua-foto.png" // substitua pelo nome real
+            src={photo} // substitua pelo nome real
             alt="Foto de Adryel"
             className="w-64 h-64 object-cover rounded-full border-4 border-azulClaro shadow-lg"
           />
