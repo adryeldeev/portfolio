@@ -25,7 +25,7 @@ const Projetos = () => {
             {/* Texto abaixo da imagem */}
             <div className="flex-1 p-6 flex flex-col"> {/* Ajustado padding */}
               <h3 className="text-2xl font-bold text-white mb-2">4s Seguros</h3>
-              <p className="text-blue-400 font-medium mb-2">React + Tawilind + Node js com express</p>
+              <p className="text-blue-400 font-medium mb-2">React + Tailwind + Node js com express</p>
               <p className="text-gray-400 mb-4 text-sm"> {/* Texto um pouco menor para economizar espaço */}
                 4s Seguros é uma empresa de corretagem de seguros que oferece soluções personalizadas para seus clientes. Está landing page foi desenvolvida para apresentar os serviços da empresa de forma clara e atraente.
               </p>
